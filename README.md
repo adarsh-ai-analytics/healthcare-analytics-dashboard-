@@ -69,6 +69,8 @@ healthcare-analytics-dashboard/
 
 ## 👨‍💻 Author
 Adarsh Shandilya 
+
 BCA Final Year | Uttaranchal University 
+
 🔗 LinkedIn: www.linkedin.com/in/adarsh-shandilya-bfsi-analyst
 📧 Email: shandilyaadarsh10@gmail.com 
